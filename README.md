@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+[![lannur-s's 42 stats](https://badge42.vercel.app/api/v2/cllaz5g89004008jx96snhdbq/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
 
 <!--
 **TrueEndeavor/TrueEndeavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
